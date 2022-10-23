@@ -34,4 +34,9 @@
         <price>$15</price>
         <calorie>420</calorie>
     </food>
+    <food>
+        <name>ข้าวเหนียวมะม่วง</name>
+        <price>$50</price>
+        <calorie>600</calorie>
+    </food>
 </menu>
